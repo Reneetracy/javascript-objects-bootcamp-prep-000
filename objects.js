@@ -5,7 +5,8 @@ var playlist = {
   'Flying Lotus': 'Coronus, the Terminator'
 }
 
-function updatePlaylist(playlist, artistName, songTitle){
+function updatePlaylist(artistName, songTitle){
   playlist[artistName] = songTitle;
   return playlist
 }
+
