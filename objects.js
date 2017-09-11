@@ -9,4 +9,3 @@ function updatePlaylist(artistName, songTitle){
   playlist[artistName] = songTitle;
   return playlist
 }
-
