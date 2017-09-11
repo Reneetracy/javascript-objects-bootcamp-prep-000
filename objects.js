@@ -4,6 +4,3 @@ var playlist = {
   Shigeto: 'Detroit Part 1',
   ['Flying Lotus']: 'Coronus, the Terminator'
 }
-
-
-
